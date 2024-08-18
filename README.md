@@ -1,0 +1,1 @@
+# eslint-plugin-story-argtyeps
